@@ -1,4 +1,3 @@
-# Tonkode
 ## A language for Ramen Lovers
 ### Tonkode was created as a simple programming language to get ramen lovers excited about programming. You will be cooking ramen for a master, and he will be reviewing your work. Choose your decesions carefully.
 
