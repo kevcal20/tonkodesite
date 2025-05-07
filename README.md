@@ -26,4 +26,6 @@ Ramen Master Rating: 100
 
 The perfect bowl!! You finally did it! You have now earned an apprenticeship in Japan!!
 
-### Click the link to download for yourself off github! Requires Python and textX, to download textX go to your console and type "pip install textX".
+### Click the link to download for yourself off github! 
+
+Requires Python and textX, to download textX go to your console and type "pip install textX".
