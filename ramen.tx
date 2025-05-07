@@ -1,0 +1,29 @@
+Program:
+    'begin'
+        selections*=Selection
+    'end'
+;
+
+Selection:
+    BrothCommand | ToppingCommand | MeatCommand
+;
+
+BrothCommand:
+    'broth' type=BrothOption
+;
+
+ToppingCommand:
+    'topping' type=ToppingOption
+;
+
+MeatCommand:
+    'meat' type=MeatOption
+;
+
+BrothOption: 'tonkotsu' | 'miso' | 'shoyu';
+ToppingOption: 'tamago' | 'nori' | 'negi';
+MeatOption: 'beef' | 'chashu' | 'chicken';
+
+Comment:
+    /\/\/.*$/
+;
