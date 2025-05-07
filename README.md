@@ -10,9 +10,9 @@ You can add:
 Sample Input:  
 
 begin  
-  broth tonkotsu   
-  topping negi   
-  topping nori  
+     broth tonkotsu   
+     topping negi   
+     topping nori  
 end  
 
 Sample Output:   
