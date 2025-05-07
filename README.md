@@ -1,19 +1,23 @@
-# tonkodesite
+# Tonkode
 ### A language for Ramen Lovers Tonkode was created as a simple programming language to get ramen lovers excited about programming. You will be cooking ramen for a master, and he will be reviewing your work. Choose your decesions carefully.
 
-You can add: -Broth (miso, shoyu, or/and tonkotsu) -Toppings (negi, nori, or/and tamago) -and Meat! (beef, chashu, or/and chicken)
+You can add:  
+- Broth (miso, shoyu, or/and tonkotsu)   
+- Toppings (negi, nori, or/and tamago)   
+- and Meat! (beef, chashu, or/and chicken)  
 
-Sample Input:
-begin
-  broth tonkotsu 
-  topping negi 
-  topping nori
-end
+Sample Input:  
 
-Sample Output: 
-Adding broth: shoyu (20 points) 
-Adding topping: tamago (30 points) 
-Adding meat: chashu (50 points)
+begin  
+  broth tonkotsu   
+  topping negi   
+  topping nori  
+end  
+
+Sample Output:   
+Adding broth: shoyu (20 points)   
+Adding topping: tamago (30 points)   
+Adding meat: chashu (50 points)  
 
 Lets take it to the master for his approval!
 
